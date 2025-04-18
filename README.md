@@ -26,7 +26,10 @@ Here are some of the tools and technologies I work with:
 ## 📂 Projects
 
 ### ✅ Excel Projects
-- [Data Cleaning & Visualization in Excel](#) *(Coming soon)*
+-  [Walmart Customer Purchases Analysis](./Walmart_Customer_Purchases_Analysis)  
+  📌 An in-depth Excel project analyzing Walmart customer behavior across multiple use cases: segmentation, forecasting, discount impact, and more.  
+  **Skills used**: Pivot Tables, Dashboards, Data Cleaning, Charts, Formulas.
+
 
 ### ✅ SQL Projects
 - [Sales Analysis with SQL](#) *(Coming soon)*
